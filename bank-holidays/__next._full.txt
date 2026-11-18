@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+c:I[97367,["$2","$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2","$3"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2","$3"],"$12"]
+15:I[68027,["$2","$3"],"default",1]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+:HC["/",""]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":{"n":"slug","t":"d","k":"bank-holidays","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","bank-holidays",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fT1cIw1TNuNYz3C1ofp6C"}
+16:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+17:I[50478,["$2","$3","$16"],"Interior"]
+9:C
+18:T1534,<section>
+<div>
+
+<div>
+
+<p>महाराष्ट्र शासन राजपत्रानुसार</p>
+</div>
+
+<div>
+<h3>सार्वजनिक सुट्ट्या</h3>
+
+<div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">अ. क्र.</th>
+<th scope="col">सुट्टीचा दिवस</th>
+<th scope="col">इंग्रजी तारीख</th>
+<th scope="col">भारतीय सौर दिनांक</th>
+<th scope="col">वार</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>प्रजासत्ताक दिन</td>
+<td>26 जानेवारी, 2026</td>
+<td>6 माघ, शके 1947</td>
+<td>सोमवार</td>
+</tr>
+<tr>
+<td>2</td>
+<td>महाशिवरात्री</td>
+<td>15 फेब्रुवारी, 2026</td>
+<td>26 माघ, शके 1947</td>
+<td>सोमवार</td>
+</tr>
+<tr>
+<td>3</td>
+<td>छत्रपती शिवाजी महाराज जयंती</td>
+<td>19 फेब्रुवारी, 2026</td>
+<td>30 माघ, शके 1947</td>
+<td>रविवार</td>
+</tr>
+<tr>
+<td>4</td>
+<td>होळी (दुसरा दिवस)</td>
+<td>03 मार्च, 2026</td>
+<td>13 फाल्गुन, शके 1947</td>
+<td>गुरुवार</td>
+</tr>
+<tr>
+<td>5</td>
+<td>गुढीपाडवा</td>
+<td>19 मार्च, 2026</td>
+<td>28 फाल्गुन, शके 1947</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>6</td>
+<td>रमझान ईद (ईद-उल-फितर)</td>
+<td>21 मार्च, 2026</td>
+<td>30 फाल्गुन, शके 1947</td>
+<td>गुरुवार</td>
+</tr>
+<tr>
+<td>7</td>
+<td>रामनवमी</td>
+<td>26 मार्च, 2026</td>
+<td>05 चैत्र, शके 1948</td>
+<td>शनिवार</td>
+</tr>
+<tr>
+<td>8</td>
+<td>महावीर जन्म कल्याणक</td>
+<td>31 मार्च, 2026</td>
+<td>10 चैत्र, शके 1948</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>9</td>
+<td>गुड फ्रायडे</td>
+<td>03 एप्रिल, 2026</td>
+<td>13 चैत्र, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+<tr>
+<td>10</td>
+<td>डॉ. बाबासाहेब आंबेडकर जयंती</td>
+<td>14 एप्रिल, 2026</td>
+<td>24 चैत्र, शके 1948</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>11</td>
+<td>महाराष्ट्र दिन</td>
+<td>01 मे, 2026</td>
+<td>11 वैशाख, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+<tr>
+<td>12</td>
+<td>बुध्द पौर्णिमा</td>
+<td>01 मे, 2026</td>
+<td>11 वैशाख, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+<tr>
+<td>13</td>
+<td>बकरी ईद (ईद-उल-झुआ)</td>
+<td>28 मे, 2026</td>
+<td>07 जेष्ठ, शके 1948</td>
+<td>गुरुवार</td>
+</tr>
+<tr>
+<td>14</td>
+<td>मोहरम</td>
+<td>26 जून, 2026</td>
+<td>05 आषाढ, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+<tr>
+<td>15</td>
+<td>स्वातंत्र्य दिन</td>
+<td>15 ऑगस्ट, 2026</td>
+<td>24 श्रावण, शके 1948</td>
+<td>शनिवार</td>
+</tr>
+<tr>
+<td>16</td>
+<td>पारशी नववर्ष दिन (शहेनशाही)</td>
+<td>15 ऑगस्ट, 2026</td>
+<td>24 श्रावण, शके 1948</td>
+<td>शनिवार</td>
+</tr>
+<tr>
+<td>17</td>
+<td>ईद-ए-मिलाद</td>
+<td>26 ऑगस्ट, 2026</td>
+<td>04 भाद्रपद, शके 1948</td>
+<td>बुधवार</td>
+</tr>
+<tr>
+<td>18</td>
+<td>गणेश चतुर्थी</td>
+<td>14 सप्टेंबर, 2026</td>
+<td>23 भाद्रपद, शके 1948</td>
+<td>सोमवार</td>
+</tr>
+<tr>
+<td>19</td>
+<td>महात्मा गांधी जयंती</td>
+<td>02 ऑक्टोबर, 2026</td>
+<td>10 आश्विन, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+<tr>
+<td>20</td>
+<td>दसरा</td>
+<td>20 ऑक्टोबर, 2026</td>
+<td>28 आश्विन, शके 1948</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>21</td>
+<td>दिवाळी अमावस्या (लक्ष्मीपूजन)</td>
+<td>08 नोव्हेंबर, 2026</td>
+<td>17 कार्तिक, शके 1948</td>
+<td>रविवार</td>
+</tr>
+<tr>
+<td>22</td>
+<td>दिवाळी (बलिप्रतिपदा)</td>
+<td>10 नोव्हेंबर, 2026</td>
+<td>19 कार्तिक, शके 1948</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>23</td>
+<td>गुरुनानक जयंती</td>
+<td>24 नोव्हेंबर, 2026</td>
+<td>03 मार्गशिर्ष, शके 1948</td>
+<td>मंगळवार</td>
+</tr>
+<tr>
+<td>24</td>
+<td>ख्रिसमस</td>
+<td>25 डिसेंबर, 2026</td>
+<td>04 पौष, शके 1948</td>
+<td>शुक्रवार</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+
+</div>
+
+<div>
+<h3>केवळ बँकांसाठी</h3>
+<p>01 एप्रिल, 2026 – बँकांना आपले वार्षिक लेखे पूर्ण करता येण्यासाठी (बुधवार)</p>
+</div>
+</div>
+</section>b:["$","$L17",null,{"slug":"bank-holidays","page":{"title":"Bank holidays","category":"About us","type":"article","source":"https://www.sangliurban.bank.in/bank-holidays","html":"$18"}}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]
+19:I[27201,["$2","$3"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"Bank holidays · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]

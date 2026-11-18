@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+c:I[97367,["$2","$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2","$3"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2","$3"],"$12"]
+15:I[68027,["$2","$3"],"default",1]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+:HC["/",""]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":{"n":"slug","t":"d","k":"locker","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","locker",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fT1cIw1TNuNYz3C1ofp6C"}
+16:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+17:I[50478,["$2","$3","$16"],"Interior"]
+9:C
+18:T4a8,<section>
+<div>
+
+<div>
+
+<p>
+                For the safety of your valuables, we offer safe deposit locker
+                facility at almost all the branches of our Bank. The nominal annual
+                rent is charged for the lockers depending on the size of the locker.
+                Kindly contact nearest branch to check locker availability.
+            </p>
+</div>
+
+<div>
+<h3>
+
+                Features of our locker services -
+            </h3>
+<ul>
+<li>
+                    Availability of lockers in various sizes and at various branch
+                    locations.
+                </li>
+<li>Rent a locker at any branch of your choice.</li>
+<li>Locker Nomination facility.</li>
+<li>Locker rates vary based on the locker size.</li>
+<li>
+                    Locker rent is charged annually and rent is payable in advance.
+                </li>
+<li>
+                    Savings or Current account with branch is necessary for availing
+                    locker with branch.
+                </li>
+<li>Allotment of lockers is on first-come-first served basis.</li>
+<li>Locker nomination facility is compulsory.</li>
+<li>KYC Norms are applicable.</li>
+</ul>
+</div>
+</div>
+</section>b:["$","$L17",null,{"slug":"locker","page":{"title":"Locker facility","category":"Services","type":"article","source":"https://www.sangliurban.bank.in/locker","html":"$18"}}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]
+19:I[27201,["$2","$3"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"Locker facility · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]

@@ -1,0 +1,415 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+c:I[97367,["$2","$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2","$3"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2","$3"],"$12"]
+15:I[68027,["$2","$3"],"default",1]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+:HC["/",""]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":{"n":"slug","t":"d","k":"faq","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","faq",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fT1cIw1TNuNYz3C1ofp6C"}
+16:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+17:I[50478,["$2","$3","$16"],"Interior"]
+9:C
+18:T4dc,
+<p>
+                                NEFT is an electronic fund transfer system that operates on
+                                a Deferred Net Settlement (DNS) basis which settles
+                                transactions in batches. In DNS, the settlement takes place
+                                with all transactions received till the particular cut-off
+                                time. These transactions are netted (payable and
+                                receivables) in NEFT whereas in RTGS the transactions are
+                                settled individually. For example, currently, NEFT operates
+                                in hourly batches. [There are twelve settlements from 8 am
+                                to 7 pm on week days and six settlements from 8 am to 1 pm
+                                on Saturdays.] Any transaction initiated after a designated
+                                settlement time would have to wait till the next designated
+                                settlement time Contrary to this, in the RTGS transactions
+                                are processed continuously throughout the RTGS business
+                                hours.
+                            </p>
+19:T446,
+<p>
+                                NEFT offers many advantages over the other modes of funds
+                                transfer:
+                            </p>
+<p>
+                                1. The remitter need not send the physical cheque or Demand
+                                Draft to the beneficiary.<br/>
+                                2. The beneficiary need not visit his / her bank for
+                                depositing the paper instruments.<br/>
+                                3. The beneficiary need not be apprehensive of loss / theft
+                                of physical instruments or the likelihood of fraudulent
+                                encashment thereof.<br/>
+                                4. Credit confirmation of the remittances sent by SMS or
+                                email.<br/>
+                                5. Near real time transfer of the funds to the beneficiary
+                                account in a secure manner.<br/>
+                                6. Cost Effective
+                            </p>
+1a:T49e,
+<p>
+                                Truncation is the process of stopping the flow of the
+                                physical cheque issued by a drawer at some point by the
+                                presenting bank en-route to the drawee bank branch. In its
+                                place an electronic image of the cheque is transmitted to
+                                the drawee branch through the clearing house, along with
+                                relevant information like data on the MICR band, date of
+                                presentation, presenting bank, etc. Cheque truncation thus
+                                obviates the need to move the physical instruments across
+                                branches, other than in exceptional circumstances for
+                                clearing purposes. This effectively eliminates the
+                                associated cost of movement of the physical cheques, reduces
+                                the time required for their collection and brings elegance
+                                to the entire activity of cheque processing.
+                            </p>
+1b:T860,
+<p>
+                                As explained above, Cheque Truncation speeds up the process
+                                of collection of cheques resulting in better service to
+                                customers, reduces the scope for clearing-related frauds or
+                                loss of instruments in transit, lowers the cost of
+                                collection of cheques, and removes reconciliation-related
+                                and logistics-related problems, thus benefitting the system
+                                as a whole.
+                            </p>
+<p>
+                                With the other major products being offered in the form of
+                                RTGS and NEFT, the Reserve Bank has created the capability
+                                to enable inter-bank and customer payments online and in
+                                near- real time. However, as cheques are still the prominent
+                                modes of payments in the country. Reserve Bank of India has
+                                therefore decided to focus on improving the efficiency of
+                                the cheque clearing cycle, offering Cheque Truncation System
+                                (CTS) as an alternative. As highlighted earlier, CTS is a
+                                more secure system vis-a-vis the exchange of physical
+                                documents.
+                            </p>
+<p>
+                                In addition to operational efficiency, CTS offers several
+                                benefits to banks and customers, including human resource
+                                rationalisation, cost effectiveness, business process re-
+                                engineering, better service, adoption of latest technology,
+                                etc. CTS, thus, has emerged as an important efficiency
+                                enhancement initiative undertaken by Reserve Bank in the
+                                Payments Systems area.
+                            </p>
+1c:T7f4,
+<p>
+                                Yes. In CTS, the presenting bank (or its branch) captures
+                                the data (on the MICR band) and the images of a cheque using
+                                their Capture System (comprising of a scanner, core banking
+                                or other application) which is internal to them, and have to
+                                meet the specifications and standards prescribed for data
+                                and images.
+                            </p>
+<p>
+                                To ensure security, safety and non-repudiation of data /
+                                images, end-to-end Public Key Infrastructure (PKI) has been
+                                implemented in CTS. As part of the requirement, the
+                                collecting bank (presenting bank) sends the data and
+                                captured images duly signed and encrypted to the central
+                                processing location (Clearing House) for onward transmission
+                                to the paying bank (destination or drawee bank).
+                            </p>
+<p>
+                                The Clearing House processes the data, arrives at the
+                                settlement figure and routes the images and requisite data
+                                to the drawee banks. This is called the presentation
+                                clearing. The drawee banks receive the images and data from
+                                the Clearing House for payment processing. The clearing
+                                cycle is treated as complete once the presentation clearing
+                                and the associated return clearing sessions are successfully
+                                processed. The entire essence of CTS technology lies in the
+                                use of images of cheques instead of the physical cheques.
+                            </p>
+1d:T4df,
+<p>
+                                KYC is an acronym for "Know your Customer", a term used for
+                                customer identification process. It involves making
+                                reasonable efforts to determine true identity and beneficial
+                                ownership of accounts, source of funds, the nature of
+                                customer's business, reasonableness of operations in the
+                                account in relation to the customer's business, etc. which
+                                in turn helps the banks to manage their risks prudently.
+                            </p>
+<p>
+                                The objective of the KYC guidelines is to prevent banks
+                                being used, intentionally or unintentionally, by criminal
+                                elements for money laundering.
+                            </p>
+<p>
+                                KYC has two components - Identity and Address. While
+                                identity remains the same, the address may change and hence
+                                the banks are required to periodically update their records.
+                            </p>
+1e:T4b2,
+<p>
+                                Yes. To ensure that the latest details about the customer
+                                are available, banks have been advised to periodically
+                                update the customer identification data based upon the risk
+                                category of the customers.
+                            </p>
+<p>
+                                Banks create a customer profile based on details like
+                                social/financial status, nature of business activity,
+                                purpose of opening the account, expected source of funds,
+                                occupation/employment, sources of income, expected
+                                remittances and withdrawals.
+                            </p>
+<p>
+                                When transactions in the account are not consistent with the
+                                customer profile, the bank may ask for additional details or
+                                documents to ensure that the account is not being used for
+                                Money Laundering or other criminal activities.
+                            </p>
+1f:T420,
+<p>
+                                A low-income customer who is unable to produce identity and
+                                address documents can open an account with an introduction
+                                from another account holder who has completed full KYC,
+                                subject to limits prescribed by RBI.
+                            </p>
+<p>
+                                The balance in all accounts should not exceed Rs. 50,000 and
+                                total credit should not exceed Rs. 1,00,000 in a year. The
+                                introducer’s account should be at least six months old with
+                                satisfactory transactions.
+                            </p>
+<p>
+                                If these limits are exceeded, no further transactions will
+                                be permitted until full KYC is completed. The bank will
+                                notify the customer in advance when limits are nearing.
+                            </p>
+20:T60d,
+<p>
+                                As notified in Govt of India notification dated December 16,
+                                2010, BSBDA-Small Accounts would be subject to the following
+                                conditions:
+                            </p>
+<p>
+                                i. Total credits in such accounts should not exceed one lakh
+                                rupees in a year.<br/>
+                                ii. Maximum balance in the account should not exceed fifty
+                                thousand rupees at any time<br/>
+                                iii. The total of debits by way of cash withdrawals and
+                                transfers will not exceed ten thousand rupees in a month<br/>
+                                iv. Remittances from abroad cannot be credited to Small
+                                Accounts without completing normal KYC formalities<br/>
+                                v. Small accounts are valid for a period of 12 months
+                                initially which may be extended by another 12 months if the
+                                person provides proof of having applied for an Officially
+                                Valid Document.<br/>
+                                vi. Small Accounts can only be opened at CBS linked branches
+                                of banks or at such branches where it is possible to
+                                manually monitor the fulfilment of the conditions.
+                            </p>
+21:T589,
+<p>
+                                Yes. However, the decision to allow services beyond the
+                                minimum prescribed has been left to the discretion of the
+                                banks who can either offer additional services free of
+                                charge or evolve requirements including pricing structure
+                                for additional value-added services on a reasonable and
+                                transparent basis, to be applied in a non-discriminatory
+                                manner with prior intimation to the customers. Banks are
+                                required to put in place a reasonable pricing structure for
+                                value added services or prescribe minimum balance
+                                requirements which should be displayed prominently and also
+                                informed to the customers at the time of account opening.
+                                Offering such additional facilities should be non -
+                                discretionary, non-discriminatory and transparent to all
+                                'Basic Savings Bank Deposit Account' customers. However,
+                                such accounts enjoying additional facilities will not be
+                                treated as BSBDAs.
+                            </p>
+22:T723,
+<p>
+<strong>Commercial Banks:</strong> All commercial banks
+                                including branches of foreign banks functioning in India,
+                                local area banks and regional rural banks are insured by the
+                                DICGC.
+                            </p>
+<p>
+<strong>Cooperative Banks:</strong> All State, Central and
+                                Primary cooperative banks, also called urban cooperative
+                                banks, functioning in States / Union Territories which have
+                                amended the local Cooperative Societies Act empowering the
+                                Reserve Bank of India (RBI) to order the Registrar of
+                                Cooperative Societies of the State / Union Territory to wind
+                                up a cooperative bank or to supersede its committee of
+                                management and requiring the Registrar not to take any
+                                action regarding winding up, amalgamation or reconstruction
+                                of a co-operative bank without prior sanction in writing
+                                from the Reserve Bank are covered under the Deposit
+                                Insurance System. At present all co-operative banks other
+                                than those from the States of Meghalaya, and the Union
+                                Territories of Chandigarh, Lakshadweep and Dadra and Nagar
+                                Haveli are covered under the deposit insurance system of
+                                DICGC.
+                            </p>
+<p>
+                                Primary cooperative societies are not insured by the DICGC.
+                            </p>
+23:T4bb,
+<p>
+                                In the event of a bank failure, DICGC protects bank deposits
+                                that are payable in India.
+                            </p>
+<p>
+                                The DICGC insures all deposits such as savings, fixed,
+                                current, recurring, etc. except the following types of
+                                deposits.
+                            </p>
+<p>
+                                (i) Deposits of foreign Governments;<br/>
+                                (ii) Deposits of Central/State Governments;<br/>
+                                (iii) Inter-bank deposits;<br/>
+                                (iv) Deposits of the State Land Development Banks with the
+                                State co-operative bank;<br/>
+                                (v) Any amount due on account of any deposit received
+                                outside India<br/>
+                                (vi) Any amount, which has been specifically exempted by the
+                                corporation with the previous approval of Reserve Bank of
+                                India.
+                            </p>
+24:T747,
+<p>
+                                If an inpidual opens more than one deposit account in one or
+                                more branches of a bank, e.g. Shri S. K. Pandit opens one or
+                                more savings/current account and one or more fixed/recurring
+                                deposit accounts etc., all these are considered as accounts
+                                held in the same capacity and in the same right. Therefore,
+                                the balances in all these accounts are aggregated and
+                                maximum insurance cover is available upto rupees one lakh.
+                            </p>
+<p>
+                                If Shri S. K. Pandit holds other deposit accounts in his
+                                capacity as a partner of a firm or guardian of a minor or
+                                director of a company or trustee of a Trust or a joint
+                                account, say with his wife Smt. S. K. Pandit, in one or more
+                                branches of the bank then such accounts are considered as
+                                held in different capacity and different right. Accordingly,
+                                such deposits accounts will also enjoy the insurance cover
+                                upto rupees one lakh separately.
+                            </p>
+<p>
+                                It is further clarified that the deposit held in the name of
+                                the proprietary concern where a depositor is the sole
+                                proprietor and the deposit held in his inpidual capacity are
+                                aggregated and insurance cover is available upto rupees one
+                                lakh in maximum.
+                            </p>
+25:T429,
+<div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Depositor</th>
+<th scope="col">Savings A/C</th>
+<th scope="col">Current A/C</th>
+<th scope="col">FD A/C</th>
+<th scope="col">Total Deposits</th>
+<th scope="col">Deposits Insured</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shri S. K. Pandit (Inpidual)</td>
+<td>17,200</td>
+<td>22,000</td>
+<td>80,000</td>
+<td>1,19,200</td>
+<td>1,00,000</td>
+</tr>
+<tr>
+<td>Shri S. K. Pandit (Partner of ABC &amp; Co.)</td>
+<td></td>
+<td>75,000</td>
+<td>50,000</td>
+<td>1,25,000</td>
+<td>1,00,000</td>
+</tr>
+<tr>
+<td>Shri S. K. Pandit (Guardian for Master Ajit)</td>
+<td>7,800</td>
+<td></td>
+<td>80,000</td>
+<td>87,800</td>
+<td>87,800</td>
+</tr>
+<tr>
+<td>Shri S. K. Pandit (Director, J.K. Udyog Ltd.)</td>
+<td></td>
+<td>2,30,000</td>
+<td>45,000</td>
+<td>2,75,000</td>
+<td>1,00,000</td>
+</tr>
+<tr>
+<td>Jointly with Smt. K. A. Pandit</td>
+<td>7,500</td>
+<td>1,50,000</td>
+<td>50,000</td>
+<td>2,07,500</td>
+<td>1,00,000</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+26:T66a,
+<p>
+                                If a bank goes into liquidation: The DICGC is liable to pay
+                                to each depositor through the liquidator, the amount of his
+                                deposit upto Rupees one lakh within two months from the date
+                                of receipt of claim list from the liquidator.
+                            </p>
+<p>
+                                If a bank is reconstructed or amalgamated / merged with
+                                another bank: Where in respect of an insured bank a scheme
+                                of compromise or arrangement or of reconstruction or
+                                amalgamation has been sanctioned by any competent authority
+                                and the said scheme provides for each depositor being paid
+                                or credited with, on the date on which the scheme comes into
+                                force, an amount which is less than the original amount and
+                                also the specified amount, the Corporation shall be liable
+                                to pay to every such depositor in accordance with the
+                                provisions of section 18 of DICGC Act an amount equivalent
+                                to the difference between the amount so paid or credited and
+                                the original amount, or the difference between the amount so
+                                paid or credited and the specified amount, whichever is
+                                less.
+                            </p>
+27:T4a7,
+<p>
+                                The Corporation has deposit insurance liability on
+                                liquidation etc. of "Insured banks" i.e. banks which have
+                                been de-registered (a) on account of prohibition on
+                                receiving fresh deposits or (b) on cancellation of license
+                                or it is found that license cannot be granted. The liability
+                                of the Corporation in these cases is limited to the extent
+                                of deposits as on the date of cancellation of registration
+                                of bank as an insured bank.
+                            </p>
+<p>
+                                On liquidation etc. of other de-registered banks i.e. banks
+                                which have been de- registered on other grounds such as
+                                nonpayment of premium or their ceasing to be eligible
+                                co-operative banks under section 2(gg) of the DICGC Act,
+                                1961, the Corporation will have no liability.
+                            </p>
+b:["$","$L17",null,{"slug":"faq","page":{"title":"Frequently asked questions","category":"Support","type":"faq","source":"https://www.sangliurban.bank.in/faq","groups":[{"title":"RTGS","id":"rtgs","items":[{"title":"Q1. What is RTGS System?","html":"\n<p>\n                                The acronym 'RTGS' stands for Real Time Gross Settlement,\n                                which can be defined as the continuous (real-time)\n                                settlement of funds transfer individually on an order by\n                                order basis (without netting). 'Real Time' means the\n                                processing of instructions at the time they are received\n                                rather than at some later time; 'Gross Settlement' means the\n                                settlement of funds transfer instructions occurs\n                                individually (on an instruction by instruction basis).\n                                Considering that the funds settlement takes place in the\n                                books of the Reserve Bank of India, the payments are final\n                                and irrevocable.\n                            </p>\n"},{"title":"Q2. How RTGS is different from National Electronics Funds Transfer System (NEFT)?","html":"$18"},{"title":"Q3. Is there any minimum / maximum amount stipulation for RTGS transactions?","html":"\n<p>\n                                The RTGS system is primarily meant for large value\n                                transactions. The minimum amount to be remitted through RTGS\n                                is ₹ 2 lakh. There is no upper ceiling for RTGS\n                                transactions.\n                            </p>\n"},{"title":"Q4. Would the remitting customer get back the money if it is not credited to the beneficiary's account? When?","html":"\n<p>\n                                Yes. Funds, received by a RTGS member for the credit to a\n                                beneficiary customer's account, will be returned to the\n                                originating RTGS member within one hour of the receipt of\n                                the payment at the PI of the recipient bank or before the\n                                end of the RTGS Business day, whichever is earlier, if it is\n                                not possible to credit the funds to the beneficiary\n                                customer's account for any reason e.g. account does not\n                                exist, account frozen, etc. Once the money is received back\n                                by the remitting bank, the original debit entry in the\n                                customer's account is reversed.\n                            </p>\n"},{"title":"Q5. What is the essential information that the remitting customer would have to furnish to a bank for the remittance to be effected?","html":"\n<p>\n                                The remitting customer has to furnish the following\n                                information to a bank for initiating a RTGS remittance:\n                            </p>\n<p>\n                                1. Amount to be remitted<br/>\n                                2. Remitting customer's account number which is to be\n                                debited<br/>\n                                3. Name of the beneficiary bank and branch<br/>\n                                4. The IFSC Number of the receiving branch<br/>\n                                5. Name of the beneficiary customer<br/>\n                                6. Account number of the beneficiary customer<br/>\n                                7. Sender to receiver information, if any\n                            </p>\n"},{"title":"Q6. How would one know the IFSC number of the receiving branch?","html":"\n<p>\n                                The beneficiary customer can obtain the IFSC code from his\n                                bank branch. The IFSC code is also available on the cheque\n                                leaf. The list of IFSCs is also available on the RBI website\n                                (https://rbidocs.rbi.org.in/rdocs/RTGS/DOCs/RTGEB0112.xls).\n                                This code number and bank branch details can be communicated\n                                by the beneficiary to the remitting customer.\n                            </p>\n"}]},{"title":"NEFT","id":"neft","items":[{"title":"Q.1. What is NEFT?","html":"\n<p>\n                                National Electronic Funds Transfer (NEFT) is a nation-wide\n                                payment system facilitating one-to-one funds transfer. Under\n                                this Scheme, individuals, firms and corporates can\n                                electronically transfer funds from any bank branch to any\n                                individual, firm or corporate having an account with any\n                                other bank branch in the country participating in the\n                                Scheme.\n                            </p>\n"},{"title":"Q.2. Who can transfer funds using NEFT?","html":"\n<p>\n                                Individuals, firms or corporates maintaining accounts with a\n                                bank branch can transfer funds using NEFT.\n                            </p>\n"},{"title":"Q.3. Who can receive funds through the NEFT system?","html":"\n<p>\n                                Individuals, firms or corporates maintaining accounts with a\n                                bank branch can receive funds through the NEFT system. It\n                                is, therefore, necessary for the beneficiary to have an\n                                account with the NEFT enabled destination bank branch in the\n                                country.\n                            </p>\n"},{"title":"Q.4. Is there any limit on the amount that could be transferred using NEFT?","html":"\n<p>\n                                No. There is no limit - either minimum or maximum - on the\n                                amount of funds that could be transferred using NEFT.\n                            </p>\n"},{"title":"Q.5. What is IFSC?","html":"\n<p>\n                                IFSC or Indian Financial System Code is an alpha-numeric\n                                code that uniquely identifies a bank-branch participating in\n                                the NEFT system. This is an 11 digit code with the first 4\n                                alpha characters representing the bank, and the last 6\n                                characters representing the branch. The 5th character is 0\n                                (zero). IFSC is used by the NEFT system to identify the\n                                originating / destination banks / branches and also to route\n                                the messages appropriately to the concerned banks /\n                                branches.\n                            </p>\n"},{"title":"Q.6. Can a transaction be originated to draw (receive) funds from another account?","html":"\n<p>\n                                No. NEFT is a credit-push system i.e., transactions can be\n                                originated only to transfer / remit funds to a beneficiary.\n                            </p>\n"},{"title":"Q.7. What are the pre-requisites for originating a NEFT transaction?","html":"\n<p>\n                                Following are the pre-requisites for putting through a funds\n                                transfer transaction using NEFT -\n                            </p>\n<p>\n                                1. Originating and destination bank branches should be part\n                                of the NEFT network.<br/>\n                                2. Beneficiary details such as beneficiary name, account\n                                number and account type, name and IFSC of the beneficiary\n                                bank branch should be available with the remitter<br/>\n                                3. For net banking customers, some banks provide the\n                                facility to automatically pop-up the IFSC once name of the\n                                destination bank and branch is highlighted / chosen /\n                                indicated / keyed in.\n                            </p>\n"},{"title":"Q.8. What are the benefits of using NEFT?","html":"$19"}]},{"title":"CTS","id":"cts","items":[{"title":"Q.1. What is Cheque Truncation?","html":"$1a"},{"title":"Q.2. Why Cheque Truncation in India?","html":"$1b"},{"title":"Q.3. What is the new approach to CTS implementation in the country?","html":"\n<p>\n                                The new approach envisioned as part of the national roll-out\n                                is the grid-based approach. Under this approach the entire\n                                cheque volume in the country cleared across numerous MICR\n                                Cheque Processing locations will be consolidated into the\n                                three grids.\n                            </p>\n<p>\n                                Each grid will provide processing and clearing services to\n                                all the banks under its jurisdiction, Banks, branches and\n                                customers based at small / remote locations falling under\n                                the jurisdiction of a grid would be benefitted, irrespective\n                                of whether there exists at present a formal arrangement for\n                                cheque clearing or otherwise.\n                            </p>\n"},{"title":"Q.4. Is it possible to briefly explain the entire process flow in CTS?","html":"$1c"},{"title":"Q.5. What type of cheques can be presented for clearing through CTS?","html":"\n<p>\n                                It is preferable to present cheques complying with CTS-2010\n                                standards for clearing through CTS. Cheques presented as\n                                part of Speed Clearing are handled in CTS as well. Since\n                                only images of cheques move in CTS, geographical\n                                jurisdiction restrictions are removed under Grid-CTS\n                                clearing implemented at Chennai, Mumbai and New Delhi.\n                            </p>\n"},{"title":"Q.6. Will there be any change in the process for the customers?","html":"\n<p>\n                                No. There is no change in the clearing process for\n                                customers. Customers continue to use cheques as at present,\n                                except to ensure the use of image-friendly-coloured-inks\n                                while writing the cheques. Cheques with alterations in\n                                material fields are not allowed under the CTS environment.\n                            </p>\n"},{"title":"Q.7. What are the benefits of CTS to customers of banks?","html":"\n<p>The benefits from CTS are as follows –</p>\n<p>\n                                1. Shorter clearing cycle<br/>\n                                2. Superior verification and reconciliation process<br/>\n                                3. No geographical restrictions as to jurisdiction<br/>\n                                4. Operational efficiency for banks and customers alike\n                            </p>\n"},{"title":"Q.8. What is Cheque Standardization and what does CTS 2010 Standard mean?","html":"\n<p>\n                                Standardization of cheque forms enabled mechanisation of\n                                cheque processing and introduced minimum common security\n                                features across banks. These benchmarks relating to paper\n                                quality, watermark, invisible ink logo, void pantograph and\n                                field placement are known as \"CTS-2010 standard\".\n                            </p>\n<p>\n                                All banks providing cheque facility have been advised to\n                                issue only CTS-2010 standard cheques. Non-compliant cheques\n                                are cleared at less frequent intervals.\n                            </p>\n"},{"title":"Q.9. What is the prescription relating to alterations / corrections on cheque forms?","html":"\n<p>\n                                No changes or corrections are allowed on cheques except for\n                                date validation. For changes in payee name or amount, fresh\n                                cheques must be issued. This prohibition is applicable to\n                                cheques cleared under CTS and is effective from December 1,\n                                2010.\n                            </p>\n"}]},{"title":"KYC","id":"kyc","items":[{"title":"Q.1. What is KYC?","html":"$1d"},{"title":"Q.2. Once KYC requirements are complied with while opening the account, whether the bank can again ask for KYC compliance from me?","html":"$1e"},{"title":"Q.3. What is the detailed list of required documents under KYC?","html":"\n<p>\n                                To get the detailed list of the documents that the bank can\n                                ask,\n                                Click Here.\n                            </p>\n"},{"title":"Q.4. Can my wife who is not having any address proof in her name, open an account with the bank?","html":"\n<p>\n                                Yes. Where the utility bills required for address\n                                verification are not in the name of the person who wants to\n                                open an account, documents of close relatives (such as\n                                spouse, parents or children) living with the customer along\n                                with a declaration from the relative are acceptable.\n                            </p>\n<p>\n                                As supplementary evidence, the bank may also ask for a\n                                letter received through post for further confirmation.\n                            </p>\n"},{"title":"Q.5. I am a daily wage earner without any document to satisfy the bank about identity and address. Can I open a bank account?","html":"$1f"},{"title":"Q.6. Whether a certificate from my employer is sufficient as identity and address proof for opening an account?","html":"\n<p>\n                                Banks may rely on certification issued by reputed corporate\n                                employers. However, banks also require at least one valid\n                                officially recognised document such as Passport, Driving\n                                Licence, PAN Card or Voter ID for KYC purposes.\n                            </p>\n"},{"title":"Q.7. Whether the information given by me to the bank under KYC is treated as confidential?","html":"\n<p>\n                                Yes. Information collected for KYC purposes is treated as\n                                confidential and is not disclosed for cross-selling or other\n                                purposes.\n                            </p>\n"},{"title":"Q.8. If I refuse to give information on KYC asked for by the bank, what action can the bank take?","html":"\n<p>\n                                If the bank is unable to apply appropriate KYC measures due\n                                to non- cooperation or non-furnishing of information, it may\n                                consider closing the account or terminating the relationship\n                                after giving due notice to the customer.\n                            </p>\n"}]},{"title":"Basic Savings Account (BSBDA)","id":"bsbda","items":[{"title":"Q.1. What is the definition of \"Basic Savings Bank Deposit Account\" (BSBDA)?","html":"\n<p>\n                                All the existing 'No-frills' accounts opened pursuant to\n                                guidelines issued vide circular\n                                UBD.BPD.Cir.No.19/13.01.000/2005-06 dated November 24, 2005\n                                and converted into BSBDA in compliance with the guidelines\n                                issued in circular UBD.BPD.Cir.No.5/13.01.000/2012-13 dated\n                                August 17, 2012 as well as fresh accounts opened under the\n                                said circular should be treated as BSBDA.\n                            </p>\n"},{"title":"Q.2. Whether the guidelines issued on 'no-frills' account with 'nil' or very low minimum balances will continue even after the introduction of 'Basic Savings Bank Deposit Account'?","html":"\n<p>\n                                No. In supersession of instructions contained in circular\n                                UBD.BPD.Cir.No.19/13.01.000/2005-06 dated November 24, 2005\n                                on No Frill accounts, banks have now been advised to offer a\n                                'Basic Savings Bank Deposit Account' to all their customers\n                                vide UBD.BPD.Cir.No.5/13.01.000/2012-13 dated August 17,\n                                2012, which will offer minimum common facilities as stated\n                                therein. Banks are required to convert the existing\n                                'no-frills' accounts' into 'Basic Savings Bank Deposit\n                                Accounts'.\n                            </p>\n"},{"title":"Q.3. Can an Individual have any number of 'Basic Savings Bank Deposit Account' in one bank?","html":"\n<p>\n                                No. An individual is eligible to have only one 'Basic\n                                Savings Bank Deposit Account' in one bank.\n                            </p>\n"},{"title":"Q.4. Whether a 'Basic Savings Bank Deposit Account' holder can have any other savings bank account in that bank ?","html":"\n<p>\n                                Holders of 'Basic Savings Bank Deposit Account' will not be\n                                eligible for opening any other savings bank account in that\n                                bank. If a customer has any other existing savings bank\n                                account in that bank, he / she will be required to close it\n                                within 30 days from the date of opening a 'Basic Savings\n                                Bank Deposit Account'.\n                            </p>\n"},{"title":"Q.5. Can an individual have other deposit accounts where one holds 'Basic Savings Bank Deposit Account'?","html":"\n<p>\n                                Yes. One can have Term/Fixed Deposit, Recurring Deposit\n                                etc., accounts in the bank where one holds 'Basic Savings\n                                Bank Deposit Account'.\n                            </p>\n"},{"title":"Q.6. Whether the 'Basic Savings Bank Deposit Account' can be opened by only certain types of individuals like poor and weaker sections of the population?","html":"\n<p>\n                                No. The 'Basic Savings Bank Deposit Account' should be\n                                considered as a normal banking service available to all\n                                customers, through branches.\n                            </p>\n"},{"title":"Q.7. Whether there are any restrictions like age, income, amount etc criteria for opening BSBDA by banks for individuals?","html":"\n<p>\n                                No. Banks are advised not to impose restrictions like age\n                                and income criteria of the individual for opening BSBDA.\n                            </p>\n"},{"title":"Q.8. What are KYC norms applicable to BSBDA accounts? Are there any relaxations in KYC norms for BSBDAs?","html":"\n<p>\n                                The 'Basic Savings Bank Deposit Account' would be subject to\n                                provisions of PML Act and Rules and RBI instructions on Know\n                                Your Customer (KYC) / Anti-Money Laundering (AML) for\n                                opening of bank accounts issued from time to time. BSBDA can\n                                also be opened with simplified KYC norms. However, if BSBDA\n                                is opened on the basis of Simplified KYC, the accounts would\n                                additionally be treated as \"BSBDA-Small Account\".\n                            </p>\n"},{"title":"Q.9. Can I have a 'Small Account' in ABC Bank as per the Government of India Notification. Can I have additionally a 'Basic Savings Bank Deposit Account'?","html":"\n<p>\n                                No, the BSBDA customer cannot have any other savings bank\n                                account in the same bank. If 'Basic Savings Bank Deposit\n                                Account' is opened on the basis of simplified KYC norms, the\n                                account would additionally be treated as a 'Small Account'\n                            </p>\n"},{"title":"Q.10. What are the conditions stipulated for accounts which are additionally to be treated as 'BSBDA-Small Account'?","html":"$20"},{"title":"Q.11. What kinds of services are available free in the 'Basic Savings Bank Deposit Account'?","html":"\n<p>\n                                The services available free in the 'Basic Savings Bank\n                                Deposit Account' will include deposit and withdrawal of\n                                cash; receipt / credit of money through electronic payment\n                                channels or by means of deposit / collection of cheques at\n                                bank branches as well as ATMs.\n                            </p>\n"},{"title":"Q.12. of any initial minimum deposit Is there requirement while opening a BSBDA as per the circular dated August 17, 2012?","html":"\n<p>\n                                There is no requirement for any initial deposit for opening\n                                a BSBDA.\n                            </p>\n"},{"title":"Q.13. Whether banks are free to offer more facilities than those prescribed for 'Basic Savings Bank Deposit Account'?","html":"$21"},{"title":"Q.14. If BSBDA customers have more than 4 withdrawals and request for cheque book at additional cost, will it cease to be a BSBDA?","html":"\n<p>\n                                Yes. Please refer to response to the Query No. 14. However,\n                                if the bank does not levy any additional charges and offers\n                                more facilities free than those prescribed under BDBDA a/cs\n                                without minimum balance then such a/cs can be classified as\n                                BSBDA.\n                            </p>\n"},{"title":"Q.15. Whether Passbooks are also to be offered free to BSBDA holders?","html":"\n<p>\n                                Yes. BSBDA holders will be offered passbook facility free of\n                                charge.\n                            </p>\n"},{"title":"Q.16. If a customer opens a BSBDA but does not close his existing Savings Bank Account within 30 days, are banks then free to close such savings bank accounts?","html":"\n<p>\n                                While opening the BSBDA customers' consent in writing be\n                                obtained that his existing non-BSBDA Savings Banks accounts\n                                will be closed after 30 days of opening BSBDA and banks are\n                                free to close such accounts after 30 days.\n                            </p>\n"},{"title":"Q.17. In certain accounts to which disbursements under MGNREGA are made weekly, the number of withdrawals may be more than four in a month of five weeks. In such cases, can banks permit five withdrawals?","html":"\n<p>\n                                In BSBDA, banks are required to provide free of charge\n                                minimum four withdrawals, including through ATM and other\n                                mode. Beyond four withdrawals, it is left to discretion of\n                                the banks to either offer free or charge for additional\n                                withdrawal/s. However pricing structure may be put in place\n                                by banks on a reasonable, non-discretionary,\n                                non-discriminatory and transparent manner.\n                            </p>\n"},{"title":"Q.18. Whether the normal saving bank account can be converted into BSBDA at the request of customer?","html":"\n<p>\n                                Yes. Such customers should give their consent in writing and\n                                they should be informed of the features and extent of\n                                services available in BSBDAs.\n                            </p>\n"}]},{"title":"DICGC","id":"dicgc","items":[{"title":"Q.1. Which banks are insured by the DICGC?","html":"$22"},{"title":"Q.2. What does the DICGC insure?","html":"$23"},{"title":"Q.3. What is the maximum deposit amount insured by the DICGC?","html":"\n<p>\n                                Each depositor in a bank is insured upto a maximum of\n                                Rs.1,00,000 (Rupees One Lakh) for both principal and\n                                interest amount held by him in the same capacity and same\n                                right as on the date of liquidation/cancellation of bank's\n                                licence or the date on which the scheme of\n                                amalgamation/merger/reconstruction comes into force.\n                            </p>\n"},{"title":"Q.4. How will I know whether my bank is insured by the DICGC or not?","html":"\n<p>\n                                The premium paid receipts are made available with the bank\n                                branches and will be made available for confirmation to\n                                customers on request.\n                            </p>\n"},{"title":"Q.5. What is the ceiling on amount of Insured deposits kept by one person in different branches of a bank?","html":"\n<p>\n                                The deposits kept in different branches of a bank are\n                                aggregated for the purpose of insurance cover and a maximum\n                                amount upto Rupees one lakh is paid.\n                            </p>\n"},{"title":"Q.6. Does the DICGC insure just the principal on an account or both principal and accrued interest?","html":"\n<p>\n                                The DICGC insures principal and interest upto a maximum\n                                amount of Rs. One lakh. For example, if an individual had an\n                                account with a principal amount of Rs.95,000 plus accrued\n                                interest of Rs.4,000, the total amount insured by the DICGC\n                                would be Rs.99,000. If, however, the principal amount in\n                                that account was Rs. One lakh, the accrued interest would\n                                not be insured, not because it was interest but because that\n                                was the amount over the insurance limit.\n                            </p>\n"},{"title":"Q.7. Can deposit insurance be increased by depositing funds into several different accounts all at the same bank?","html":"\n<p>\n                                All funds held in the same type of ownership at the same\n                                bank are added together before deposit insurance is\n                                determined. If the funds are in different types of ownership\n                                or are deposited into separate banks they would then be\n                                separately insured.\n                            </p>\n"},{"title":"Q.8. What is a single ownership account?","html":"\n<p>\n                                A single (or inpidual) ownership account is an account owned\n                                by one person. Such accounts include those in the owner's\n                                name; those established for the benefit of the owner by\n                                agents, nominees, guardians, custodians, or conservators;\n                                and those established by a business that is a sole\n                                proprietorship.\n                            </p>\n"},{"title":"Q.9. Are deposits in different banks separately insured?","html":"\n<p>\n                                Yes. If you have deposits with more than one bank, deposit\n                                insurance coverage limit is applied separately to the\n                                deposits in each bank.\n                            </p>\n"},{"title":"Q.10. If I have my funds on deposit at two different banks, and those two banks are closed on the same day, are my funds added together, or insured separately?","html":"\n<p>\n                                Your funds from each bank would be insured separately,\n                                regardless of the date of closure.\n                            </p>\n"},{"title":"Q.11. What is the meaning of deposits held in the same capacity and same right; and deposits held in different capacity and different right?","html":"$24"},{"title":"Illustrations – Deposits held in different capacities","html":"$25"},{"title":"Q.12. Can the bank deducts the amount of dues payable by the depositor?","html":"\n<p>\n                                Yes. Banks have the right to set off their dues from the\n                                amount of deposits. The deposit insurance is available after\n                                netting of such dues.\n                            </p>\n"},{"title":"Q.13. Who pays the cost of deposit insurance?","html":"\n<p>\n                                Deposit insurance premium is borne entirely by the insured\n                                bank.\n                            </p>\n"},{"title":"Q.14. When is the DICGC liable to pay?","html":"$26"},{"title":"Q.15. Does the DICGC directly deal with the depositors of failed banks?","html":"\n<p>\n                                No. In the event of a bank's liquidation, the liquidator\n                                prepares depositor wise claim list and sends it to the\n                                DICGC. After scrutiny the DICGC pays the money to the\n                                liquidator who is liable to pay to the depositors. In the\n                                case of amalgamation / merger of banks, the amount due to\n                                each depositor is paid to the transferee bank.\n                            </p>\n"},{"title":"Q.16. Can any insured bank withdraw from the DICGC coverage?","html":"\n<p>\n                                No. The deposit insurance scheme is compulsory and no bank\n                                can withdraw from it.\n                            </p>\n"},{"title":"Q.17. Can the DICGC withdraw deposit insurance coverage from any bank?","html":"\n<p>\n                                The Corporation may cancel the registration of an insured\n                                bank if it fails to pay the premium for three consecutive\n                                half year periods. In the event of the DICGC withdrawing its\n                                coverage from any bank for default in the payment of premium\n                                the public will be notified through newspapers.\n                            </p>\n"},{"title":"Q.18. What will be the Corporation's liability to the banks on de-registration.","html":"$27"}]},{"title":"ATM","id":"atm","items":[{"title":"ATM","html":"\n<p>Will be provided soon</p>\n"}]},{"title":"15G / 15H","id":"form15","items":[{"title":"15G / 15H","html":"\n<p>Will be provided soon</p>\n"}]}]}}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]
+28:I[27201,["$2","$3"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"Frequently asked questions · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L28","4",{}]]

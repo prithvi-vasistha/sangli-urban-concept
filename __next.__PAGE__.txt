@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+b:"/sangli-urban-concept/_next/static/chunks/3an93po3e27go.js"
+c:I[1213,["$2","$3","$b"],"Home"]
+d:I[97367,["$2","$3"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2","$3"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:I[27201,["$2","$3"],"IconMark"]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lc",null,{"featured":[{"title":"NOTICE TO NON-PROFIT ORGANIZATIONS (NPOs) FOR SHARING DARPAN ID TO THE BANK","url":"https://www.sangliurban.bank.in/assets/images/pdf/notice_darpan.pdf"},{"title":"Inoperative Account Notice","url":"https://www.sangliurban.bank.in/assets/images/pdf/inoperative_notice.pdf"},{"title":"View Sangli Urban Bank's 90th AGM Notice","url":"https://www.sangliurban.bank.in/assets/images/pdf/90_th_agm_notice.pdf"}]}],[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3an93po3e27go.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sangli Urban Co-operative Bank · Website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L15","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"fT1cIw1TNuNYz3C1ofp6C"}
+f:null
+9:300
+18:true
+9:C
+17:0
+8:"$undefined"
+16:"$undefined"
+10:"$undefined"

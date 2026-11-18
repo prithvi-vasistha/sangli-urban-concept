@@ -1,0 +1,244 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+e:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+f:I[50478,["$2","$3","$e"],"Interior"]
+14:"ViewportBoundary"
+15:I[97367,["$2","$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2","$3"],"$16"]
+18:"$Sreact.suspense"
+19:I[27201,["$2","$3"],"IconMark"]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+9:X
+c:X
+c:C
+10:Tf9b,<section>
+<div>
+
+<div>
+
+</div>
+
+<div>
+<div>
+<h3>Bulk Deposit - Applicable for 1 day 17.11.2026 (Amount 1CR and above )</h3>
+</div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Period</th>
+<th scope="col">Interest Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12 months - (Non-Callable - Non Cumulative Deposit Scheme)</td>
+<td>8.50%</td>
+</tr>
+<tr>
+<td>12 months to less than 4 years - (Non-Callable - Non Cumulative Deposit Scheme)</td>
+<td>7.75%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+
+<div>
+<div>
+<h3>Fixed Deposit Below Rs. 1 Crore ( Effective From 02.11.2026 )</h3>
+</div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Period</th>
+<th scope="col">Under 60 Years of age</th>
+<th scope="col">Above 60 Years of Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>07 Days To 90 Days</td>
+<td>3.25%</td>
+<td>4.00%</td>
+</tr>
+<tr>
+<td>91 Days To 179 Days</td>
+<td>4.00%</td>
+<td>4.75%</td>
+</tr>
+<tr>
+<td>180 Days to Less Than 1 Year</td>
+<td>5.00%</td>
+<td>5.75%</td>
+</tr>
+<tr>
+<td>1 Year To 554 Days Cumulative</td>
+<td>6.50%</td>
+<td>7.25%</td>
+</tr>
+<tr>
+<td>1 Year To 554 Days Non Cumulative</td>
+<td>6.75%</td>
+<td>7.50%</td>
+</tr>
+<tr>
+<td>555 Days (Non-Cumulative)</td>
+<td>7.35%</td>
+<td>8.10%</td>
+</tr>
+<tr>
+<td>556 Days To 4 Years Non Cumulative</td>
+<td>6.75%</td>
+<td>7.50%</td>
+</tr>
+<tr>
+<td>556 Days To 4 Years Cumulative</td>
+<td>6.50%</td>
+<td>7.25%</td>
+</tr>
+<tr>
+<td>4 Years 01 Days To 10 Years Cumulative</td>
+<td>6.25%</td>
+<td>7.00%</td>
+</tr>
+<tr>
+<td>4 Years 01 Days To 10 Years Non Cumulative</td>
+<td>6.50%</td>
+<td>7.25%</td>
+</tr>
+<tr>
+<td>Fixed Deposit 80 C &amp; Samruddhi Deposit 80 C</td>
+<td>6.75%</td>
+<td>7.25%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+<div>
+<div>
+<h3>
+                    Term Deposit Interest Rate For Deposit Rs. 1 Crore &amp; Above (Effective From 02.11.2026)
+                </h3>
+</div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Period of Deposit</th>
+<th scope="col">All General Customers, Senior Citizens, Institution, Bank Employees &amp; Senior Citizen
+                            Employees</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7 Days To 90 Days</td>
+<td>4.25%</td>
+</tr>
+<tr>
+<td>91 Days To 179 Days</td>
+<td>5.00%</td>
+</tr>
+<tr>
+<td>180 Days To Less Than 1 Year</td>
+<td>6.00%</td>
+</tr>
+<tr>
+<td>1 Year To 4 Years [Cumulative]</td>
+<td>7.50%</td>
+</tr>
+<tr>
+<td>1 Year To 4 Years [Non-Cumulative]</td>
+<td>7.75%</td>
+</tr>
+<tr>
+<td>4 Years 01 Days To 10 Years [Cumulative]</td>
+<td>6.50%</td>
+</tr>
+<tr>
+<td>4 Years 01 Days To 10 Years [Non-Cumulative]</td>
+<td>6.75%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+<div>
+<div>
+<h3>
+                    Amrut Mohotsavi Lakshadheesh Thev Yojana-Tenure 60 Months/5 Years
+                    (EFFECTIVE FROM 01.09.2026)
+                </h3>
+</div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Interest Rate</th>
+<th scope="col">Customer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6.25%</td>
+<td>General Customer</td>
+</tr>
+<tr>
+<td>7.00%</td>
+<td>Senior Citizen</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+<div>
+<div>
+<h3>Saving (Effective from 01-09-2026)</h3>
+</div>
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Saving Schemes</th>
+<th scope="col">Interest Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Saving Interest Rate</td>
+<td>2.50%</td>
+</tr>
+<tr>
+<td>Saving Deposit Minimum Balance</td>
+<td>Rs. 1000/-</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+</section><div class="article-note">
+<ul>
+<li>Conditions apply</li>
+<li>
+                Flexible Interest Rate for Cash Credit facility as per Credit Rating
+            </li>
+<li>Lower Interest Rate for Women Entrepreneurs</li>
+</ul>
+</div>d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"slug":"deposit-int-rate","page":{"title":"Deposit interest rates","category":"Deposits","type":"article","source":"https://www.sangliurban.bank.in/deposit-int-rate","html":"$10"}}],["$L11"],"$L12"]}],"p":"$@13","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"deposit-int-rate","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Deposit interest rates · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"fT1cIw1TNuNYz3C1ofp6C"}
+1d:I[97367,["$2","$3"],"OutletBoundary"]
+11:["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true}]
+12:["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+9:300
+1e:null
+1c:true
+9:C
+1b:0
+b:"$undefined"
+8:"$undefined"
+1a:"$undefined"
+13:"$undefined"

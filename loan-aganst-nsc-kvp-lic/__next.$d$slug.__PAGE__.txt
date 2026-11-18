@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+e:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+f:I[50478,["$2","$3","$e"],"Interior"]
+11:I[97367,["$2","$3"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2","$3"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2","$3"],"$17"]
+19:I[27201,["$2","$3"],"IconMark"]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+9:X
+c:X
+c:C
+10:T743,<section>
+<div>
+
+<div>
+
+<p>
+                A secured loan facility allowing you to meet financial needs by
+                leveraging your existing government-backed savings and insurance
+                policies.
+            </p>
+</div>
+
+<div>
+<div class="fact-row">
+<span> Purpose</span>
+<strong>Any</strong>
+</div>
+<div class="fact-row">
+<span> Eligibility</span>
+<strong>Individuals</strong>
+</div>
+<div class="fact-row">
+<span> Loan Amount</span>
+<strong>As per requirement</strong>
+</div>
+<div class="fact-row">
+<span> Margin</span>
+<strong>Up to 25%</strong>
+</div>
+<div class="fact-row">
+<span> Repayment</span>
+<strong>Till maturity date of security</strong>
+</div>
+<div class="fact-row">
+<span> Special Feature</span>
+<strong>
+                    • Loan against NSC is granted for securities purchased before 12
+                    months<br/>
+                    • Loan against KVP is generally granted for securities purchased
+                    before 54 months<br/>
+                    • Loan against LIC Policy is granted up to 75% of surrender value
+                </strong>
+</div>
+<div class="fact-row">
+<span> Security</span>
+<strong>NSC / KVP / LIC on which loan has been taken</strong>
+</div>
+<div class="fact-row">
+<span> Guarantee / Surety</span>
+<strong>Not Applicable</strong>
+</div>
+<div class="fact-row">
+<span> Documents Required</span>
+<strong>KYC, Saving Account with Bank etc.</strong>
+</div>
+<div class="fact-row">
+<span> Rate of Interest</span>
+<strong><a href="/rate-of-interest/">For Latest Interest Rates Click
+                        Here</a></strong>
+</div>
+</div>
+</div>
+</section><div class="article-note">
+<ul>
+<li>Conditions apply</li>
+<li>
+                Flexible Interest Rate for Cash Credit facility as per Credit Rating
+            </li>
+<li>Lower Interest Rate for Women Entrepreneurs</li>
+</ul>
+</div>d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"slug":"loan-aganst-nsc-kvp-lic","page":{"title":"Loan Against NSC / KVP / LIC","category":"Loans","type":"article","source":"https://www.sangliurban.bank.in/loan-aganst-nsc-kvp-lic","html":"$10"}}],[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"loan-aganst-nsc-kvp-lic","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Loan Against NSC / KVP / LIC · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"fT1cIw1TNuNYz3C1ofp6C"}
+13:null
+9:300
+1c:true
+9:C
+1b:0
+b:"$undefined"
+8:"$undefined"
+1a:"$undefined"
+14:"$undefined"

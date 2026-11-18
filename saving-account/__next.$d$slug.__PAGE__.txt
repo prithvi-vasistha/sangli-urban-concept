@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+e:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+f:I[50478,["$2","$3","$e"],"Interior"]
+11:I[97367,["$2","$3"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2","$3"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2","$3"],"$17"]
+19:I[27201,["$2","$3"],"IconMark"]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+9:X
+c:X
+c:C
+10:T6e8,<section>
+
+<div>
+<div>
+<div>
+<div>
+
+<p>
+                        A secure and flexible savings account designed to meet your
+                        daily banking needs with modern digital facilities and trusted
+                        service.
+                    </p>
+</div>
+<div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div>
+<div>
+<h3>Who Can Open a Savings Account?</h3>
+<p>Eligibility criteria as per bank norms</p>
+</div>
+<div>
+<div>
+<div>
+
+<h3>Individuals</h3>
+<p>Resident individuals can open a savings account.</p>
+</div>
+</div>
+<div>
+<div>
+
+<h3>HUF</h3>
+<p>Hindu Undivided Families are eligible.</p>
+</div>
+</div>
+
+</div>
+</div>
+
+<div>
+<div>
+<div>
+<h3>Key Features &amp; Facilities</h3>
+<p>Enjoy convenient and secure banking services</p>
+</div>
+<div>
+<div>
+
+<span>Any Branch Banking (ABB)</span>
+</div>
+<div>
+
+<span>ATM / Debit cum ATM Card</span>
+</div>
+<div>
+
+<span>Demand Draft (Local &amp; Outstation)</span>
+</div>
+<div>
+
+<span>RTGS / NEFT Facility</span>
+</div>
+<div>
+
+<span>Nomination Facility Available</span>
+</div>
+<div>
+
+<span>DICGC Insurance Coverage</span>
+</div>
+<div>
+
+<span>CTS Compliant Cheque Books</span>
+</div>
+<div>
+
+<span>Basic Savings (No-Frills Account)</span>
+</div>
+<div>
+
+<span>Student Savings Account</span>
+</div>
+<div>
+
+<span>Minor Savings Account</span>
+</div>
+<div>
+
+<span>Transaction Alerts via SMS</span>
+</div>
+<div>
+
+<span>DICGC Insurance Coverage (Upto 5 Lakhs)</span>
+</div>
+</div>
+</div>
+</div>
+</section><section>
+<div>
+<div>
+
+<h3>Important Deposit Information</h3>
+</div>
+<div>
+<ul>
+
+<li>
+                        Maturity amount is subject to <strong>tax deduction</strong> and
+                        its impact on interest.
+                    </li>
+<li><strong>Conditions apply</strong>.</li>
+</ul>
+</div>
+</div>
+</section>d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"slug":"saving-account","page":{"title":"Savings account","category":"Deposits","type":"article","source":"https://www.sangliurban.bank.in/saving-account","html":"$10"}}],[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"saving-account","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Savings account · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"fT1cIw1TNuNYz3C1ofp6C"}
+13:null
+9:300
+1c:true
+9:C
+1b:0
+b:"$undefined"
+8:"$undefined"
+1a:"$undefined"
+14:"$undefined"

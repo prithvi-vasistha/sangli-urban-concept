@@ -1,0 +1,211 @@
+1:"$Sreact.fragment"
+2:"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js"
+4:I[85516,["$2","$3"],"Frame"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+c:I[97367,["$2","$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2","$3"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2","$3"],"$12"]
+15:I[68027,["$2","$3"],"default",1]
+:HL["/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","style"]
+:HC["/",""]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":{"n":"slug","t":"d","k":"kyc-norms","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","kyc-norms",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/sangli-urban-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/sangli-urban-concept/_next/static/chunks/0i9y051a7a4qe.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"wrap not-found","children":[["$","h1",null,{"children":"Page not found"}],["$","$L7",null,{"prefetch":false,"className":"text-link ","href":"/","children":["Return to the homepage",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.7,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right","aria-hidden":true,"children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/sangli-urban-concept/_next/static/chunks/0gko3m42fjdaz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fT1cIw1TNuNYz3C1ofp6C"}
+16:"/sangli-urban-concept/_next/static/chunks/0mbn21gcld0sm.js"
+17:I[50478,["$2","$3","$16"],"Interior"]
+9:C
+18:T1e8f,<section>
+<div>
+<div>
+
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">Accounts of Individuals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Identity and Address Proof</td>
+<td>
+                            (i) Passport<br/>
+                            (ii) Voter's Identity Card<br/>
+                            (iii) Driving licence<br/>
+                            (iv) Adhar Card<br/>
+                            (v) NREGA Card
+                        </td>
+</tr>
+<tr>
+<td>
+                            Officially valid documents for low risk customers – Identity
+                            Proof
+                        </td>
+<td>
+                            i) Identity card with applicant’s photograph issued by
+                            Central/ State Government Departments, Statutory/ Regulatory
+                            Authorities, Public Sector Undertakings, Scheduled Commercial
+                            Banks, and Public Financial Institutions;<br/><br/>
+                            ii) Letter issued by a Gazetted officer, with a duly attested
+                            photograph of the person
+                        </td>
+</tr>
+<tr>
+<td>Address Proof</td>
+<td>
+                            i) Utility bill, which is not more than two months old, of any
+                            service provider (electricity, telephone, post-paid mobile
+                            phone, piped gas, water bill);<br/><br/>
+                            ii) Property or Municipal Tax receipt;<br/><br/>
+                            iii) Bank account or Post Office savings bank account
+                            statement;<br/><br/>
+                            iv) Pension or family Pension Payment Orders (PPOs) issued to
+                            retired employees by Government Departments or Public Sector
+                            Undertakings, if they contain the address;<br/><br/>
+                            v) Letter of allotment of accommodation from employer issued
+                            by State or Central Government departments, statutory or
+                            regulatory bodies, public sector undertakings, scheduled
+                            commercial banks, financial institutions and listed companies.
+                            Similarly, leave and license agreements with such employers
+                            allotting official accommodation; and<br/><br/>
+                            vi) Documents issued by Government departments of foreign
+                            jurisdictions or letter issued by Foreign Embassy or Mission
+                            in India.
+                        </td>
+</tr>
+</tbody>
+</table></div>
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">Company</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+                            One certified copy of each of the following documents:<br/><br/>
+                            Certificate of incorporation.<br/><br/>
+                            Memorandum and Articles of Association.<br/><br/>
+                            A resolution from the Board of Directors and power of attorney
+                            granted to its managers, officers or employees to transact on
+                            its behalf.<br/><br/>
+                            Officially valid documents in respect of managers, officers or
+                            employees holding an attorney to transact on its behalf.
+                        </td>
+</tr>
+</tbody>
+</table></div>
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">Partnership Firm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+                            One certified copy of each of the following documents:<br/><br/>
+                            Registration certificate.<br/><br/>
+                            Partnership deed.<br/><br/>
+                            Officially valid documents in respect of the person holding an
+                            attorney to transact on its behalf.
+                        </td>
+</tr>
+</tbody>
+</table></div>
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">Trust</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+                            One certified copy of each of the following documents:<br/><br/>
+                            Registration certificate.<br/><br/>
+                            Trust deed.<br/><br/>
+                            Officially valid documents in respect of the person holding a
+                            power of attorney to transact on its behalf.<br/><br/>
+                            Darpan Id
+                        </td>
+</tr>
+</tbody>
+</table></div>
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">
+                            Unincorporated association or a body of individuals
+                        </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+                            One certified copy of each of the following documents:<br/><br/>
+                            resolution of the managing body of such association or body of
+                            individuals;<br/><br/>
+                            power of attorney granted to transact on its behalf;<br/><br/>
+                            Officially valid documents in respect of the person holding an
+                            attorney to transact on its behalf and<br/><br/>
+                            such information as may be required by the RE to collectively
+                            establish the legal existence of such an association or body
+                            of individuals.
+                        </td>
+</tr>
+</tbody>
+</table></div>
+
+<div aria-label="Scrollable data table" class="table-scroll" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th colspan="2" scope="col">Sole Proprietary Firm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+                            Details of identity and address of the individual
+                            (proprietor)<br/><br/>
+                            Any two of the following documents as a proof of business/
+                            activity in the name of the proprietary firm:<br/><br/>
+                            Registration certificate<br/><br/>
+                            Certificate/licence issued by the municipal authorities under
+                            Shop and Establishment Act.<br/><br/>
+                            Sales and income tax returns.<br/><br/>
+                            GST Certificate.<br/><br/>
+                            Certificate/registration document issued by Sales Tax/Service
+                            Tax/Professional Tax authorities.<br/><br/>
+                            Licence/certificate of practice issued in the name of the
+                            proprietary concern by any professional body incorporated
+                            under a statute.<br/><br/>
+                            Complete Income Tax Return (not just the acknowledgement) in
+                            the name of the sole proprietor where the firm's income is
+                            reflected, duly authenticated/acknowledged by the Income Tax
+                            authorities.<br/><br/>
+                            Utility bills such as electricity, water, and landline
+                            telephone bills.
+                        </td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+</section>b:["$","$L17",null,{"slug":"kyc-norms","page":{"title":"KYC norms","category":"Services","type":"article","source":"https://www.sangliurban.bank.in/kyc-norms","html":"$18"}}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2b3e"}]]
+19:I[27201,["$2","$3"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"KYC norms · Sangli Urban website concept"}],["$","meta","1",{"name":"description","content":"Independent website redesign concept for Sangli Urban Co-operative Bank Ltd."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/sangli-urban-concept/media/bank-mark.webp"}],["$","$L19","4",{}]]
